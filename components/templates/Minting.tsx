@@ -45,7 +45,7 @@ const Component: React.FC = () => {
               {store.claimedSupply} / {store.totalSupply}
             </Text>
             <Text pt={2} fontSize="xs" textAlign={'center'}>
-              goerli testnet
+              mumbai testnet
             </Text>
           </div>
         </VStack>
